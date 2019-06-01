@@ -15,8 +15,8 @@ Here is the overall component interaction diagram for the same.
 ![alt text](https://cdn2.howtodoinjava.com/wp-content/uploads/2017/07/Main.jpg)
 
 Tech Stack and Runtime
-- Java 1.8
-- Eclipse IDE
+- Java
+- Intellij IDE
 - Consul as Service Registry Server
 - Spring cloud
 - Spring boot
